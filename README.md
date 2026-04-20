@@ -25,15 +25,17 @@ BarbershopAPI adalah REST API sederhana untuk mengelola data barbershop seperti 
    database.sql
 4. Pastikan tabel dan data berhasil dibuat
 
-## Struktur Project
-BarbershopAPI/ 
-├── Context/ 
-├── Controllers/ 
+## Struktur Folder
+```bash
+BarbershopAPI/
+├── Context/
+├── Controllers/
 ├── Helpers/
-├── Models/ 
-├── appssettings.json/
-├── database.sql 
-├── README.md
+├── Models/
+├── appsettings.json
+├── database.sql
+└── README.md
+```
 
 ## Struktur Database
 Users
@@ -74,17 +76,22 @@ Bookings
 | GET | /api/barber | Ambil data barber |
 
 ## Format Respons
-Succes :
-|{|
-|  "status": "success",|
-|  "data": {...}|
-|}|
 
-Error
-|{|
-|  "status": "error",|
-|  "message": "Pesan error"|
-|}|
+### Success
+```json
+{
+  "status": "success",
+  "data": { ... }
+}
+```
+
+### Error
+```json
+{
+  "status": "error",
+  "message": "Pesan error"
+}
+```
 
 ## Skenario Error
 - GET user dengan ID tidak ditemukan → 404  

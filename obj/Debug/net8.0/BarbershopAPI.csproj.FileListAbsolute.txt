@@ -36,3 +36,4 @@ C:\Users\adawi\source\repos\BarbershopAPI\obj\Debug\net8.0\refint\BarbershopAPI.
 C:\Users\adawi\source\repos\BarbershopAPI\obj\Debug\net8.0\BarbershopAPI.pdb
 C:\Users\adawi\source\repos\BarbershopAPI\obj\Debug\net8.0\BarbershopAPI.genruntimeconfig.cache
 C:\Users\adawi\source\repos\BarbershopAPI\obj\Debug\net8.0\ref\BarbershopAPI.dll
+C:\Users\adawi\source\repos\BarbershopAPI\obj\Debug\net8.0\BarbershopAPI.sourcelink.json
