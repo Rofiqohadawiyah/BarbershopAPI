@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarbershopAPI", "BarbershopAPI.csproj", "{2277F1A3-9835-49A2-A05A-B6BC46695F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2277F1A3-9835-49A2-A05A-B6BC46695F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2277F1A3-9835-49A2-A05A-B6BC46695F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2277F1A3-9835-49A2-A05A-B6BC46695F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2277F1A3-9835-49A2-A05A-B6BC46695F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6554A82-DF04-490E-8113-CBF258558E34}
+	EndGlobalSection
+EndGlobal

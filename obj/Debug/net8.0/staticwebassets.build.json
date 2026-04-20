@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MH25GG+rJsjMpHm/vC+BCPXcUh0JhMQwZ7JJXCiZegw=",
+  "Source": "BarbershopAPI",
+  "BasePath": "_content/BarbershopAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
