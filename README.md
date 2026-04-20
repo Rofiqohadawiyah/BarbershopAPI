@@ -104,3 +104,6 @@ Bookings
 Nama    : Rofiqoh Adawiyah
 NIM     : 242410102008
 Kelas   : PAA A
+
+## Link Video Penjelasan
+https://youtu.be/GUc0gjrYC54
