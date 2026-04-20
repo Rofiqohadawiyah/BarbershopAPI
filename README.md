@@ -101,8 +101,8 @@ Bookings
 - DELETE user tidak ditemukan / sudah dihapus → 404  
 
 ## Identitas
-Nama    : Rofiqoh Adawiyah
-NIM     : 242410102008
+Nama    : Rofiqoh Adawiyah  
+NIM     : 242410102008  
 Kelas   : PAA A
 
 ## Link Video Penjelasan
